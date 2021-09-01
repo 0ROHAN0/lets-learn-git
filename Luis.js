@@ -1,7 +1,7 @@
 function myfunc(){
-
+  
 };
 
 setTimeout(function () {
-
-}, 10);
+  console.log("i am javascript");
+}, 1000);
